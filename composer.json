@@ -22,7 +22,8 @@
         "symfony/swiftmailer-bundle": "^3.1",
         "symfony/validator": "^4.0",
         "symfony/yaml": "^4.0",
-        "twig/twig": "^2.0"
+        "twig/twig": "^2.0",
+        "unreal4u/telegram-api": "^3.3"
     },
     "require-dev": {
         "symfony/dotenv": "^4.0",

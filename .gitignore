@@ -25,5 +25,5 @@ behat.yml
 ###< symfony/phpunit-bridge ###
 
 ###> PhpStorm ###
-.idea
+.idea/
 ###< PhpStorm ###
